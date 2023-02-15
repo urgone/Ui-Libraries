@@ -1,4 +1,12 @@
-# Ui-Libraries ✨
-find ui libraries with 🎇**ease**🎇. ✔
+# Ui-Libraries ⭐
+Find ui libraries with ✨**ease**✨.
 
-a little ✨**project**✨ of mine that im working on. i'll put every possible ui lib in here for you guys to get way easier. ✔
+no need to search for ⌛**long times**⌛ to find the ❗**one**❗ you need.
+
+# Project
+A little ✨**project**✨ of mine that im working on. I'll put every possible ui lib in here for you guys to get way easier. Hope you guys will find this useful.
+
+### Amount
+I will try to add ⭐**3 ui libs**⭐ per day atleast. thank you for reading!
+
+❗ i will be adding more info soon ❗
