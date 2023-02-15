@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/IreXion-UI-Library/main/IreXion%20UI%20Library"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/urgone/Ui-Libraries/main/IreXion%20Ui%20Lib/Source.lua"))()
 
 local Gui = Library:AddGui({
 Title = {"IreXion", "UI Library"},
