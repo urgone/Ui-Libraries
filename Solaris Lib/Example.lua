@@ -1,4 +1,4 @@
-local SolarisLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/sol"))()
+local SolarisLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/urgone/Ui-Libraries/main/Solaris%20Lib/Source.lua"))()
 
 --[[SolarisLib:New({
   Name - Title of the UI <string>
